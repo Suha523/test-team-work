@@ -1,3 +1,15 @@
+
+.btns{
+    background-color: black;
+    color: white;
+}
+
+.contact{
+    margin: 2px;
+    
+}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -31,3 +43,4 @@
     margin: 10px;
     background-color: blueviolet;
 }
+
