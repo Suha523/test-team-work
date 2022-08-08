@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .btns{
     background-color: black;
     color: white;
@@ -8,3 +9,38 @@
     
 }
 
+=======
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.header{
+    height: 100vh;
+    width: 100%;
+    background-color: beige;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btns{
+    display: flex;
+}
+
+.contact{
+    margin: 10px;
+    background-color: green;
+}
+
+.make-request{
+    margin: 10px;
+    background-color: blueviolet;
+}
+>>>>>>> c8071cc4978c79f261fcda55ad3ae9c61ff149c5
