@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 .nav{
     display: flex; 
     justify-content: space-between;
@@ -25,8 +22,17 @@ ul{
 }
 .list-item:hover{
     background-color: red;
-=======
-=======
+}
+.btns{
+    background-color: black;
+    color: white;
+}
+
+.contact{
+    margin: 2px;
+    
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -34,14 +40,10 @@ ul{
 
 }
 
->>>>>>> c8071cc4978c79f261fcda55ad3ae9c61ff149c5
 .header{
     height: 100vh;
     width: 100%;
     background-color: beige;
-<<<<<<< HEAD
->>>>>>> d4d0f8eefc057f766c533359d223d925ed93d427
-=======
 }
 
 .container{
@@ -63,5 +65,4 @@ ul{
 .make-request{
     margin: 10px;
     background-color: blueviolet;
->>>>>>> c8071cc4978c79f261fcda55ad3ae9c61ff149c5
 }
