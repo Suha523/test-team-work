@@ -1,0 +1,26 @@
+
+.nav{
+    display: flex; 
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+ul{
+    list-style: none;
+}
+.logo{
+    padding: 30px;
+}
+.list-container{
+    display: flex;
+    justify-content: space-between;
+}
+.list-item{
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+    padding: 5px;
+}
+.list-item:hover{
+    background-color: red;
+}
