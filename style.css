@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .nav{
     display: flex; 
@@ -23,4 +24,10 @@ ul{
 }
 .list-item:hover{
     background-color: red;
+=======
+.header{
+    height: 100vh;
+    width: 100%;
+    background-color: beige;
+>>>>>>> d4d0f8eefc057f766c533359d223d925ed93d427
 }
